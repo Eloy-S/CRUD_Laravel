@@ -16,13 +16,33 @@
 
 ---
 
-## 📸 Vistas Previas del Sistema
+## ---
 
-| Pantalla Inicial / Listado | Formulario de Creación |
-| :---: | :---: |
-| ![Inicio del CRUD](img\CRUD_laravel_inicio.png) | ![Creación de Producto](img\CRUD_laravel_formulario.png) |
-| *Listado general de los registros almacenados en base de datos.* | *Interfaz limpia con Bootstrap para la inserción de nuevos productos.* |
+## 📸 Evidencias y Vistas del Sistema
 
+A continuación se muestra el funcionamiento paso a paso del sistema CRUD implementado:
+
+### 1. Pantalla de Bienvenida (Laravel Activo)
+![Servidor Levantado](CRUD_laravel_levantado.png)
+*Verificación del servidor local corriendo correctamente en el entorno de desarrollo.*
+
+---
+
+### 2. Vista Principal del CRUD
+![Vista de Inicio](CRUD_laravel_inicio.png)
+*Panel principal de la ruta `/products` listo para listar los registros de la base de datos.*
+
+---
+
+### 3. Formulario de Creación
+![Formulario](CRUD_laravel_formulario.png)
+*Interfaz desarrollada con Bootstrap 5 para el ingreso de nuevos productos (Descripción, Precio y Stock).*
+
+---
+
+### 4. Registro Exitoso en la Base de Datos
+![Producto Creado](CRUD_laravel_creacion_product.png)
+*Confirmación visual de inserción correcta con la alerta de éxito y opciones de visualización, edición y eliminación.*
 ---
 
 ## ⚙️ Guía de Instalación Local
