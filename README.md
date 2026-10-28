@@ -23,7 +23,7 @@
 A continuación se muestra el funcionamiento paso a paso del sistema CRUD implementado:
 
 ### 1. Pantalla de Bienvenida (Laravel Activo)
-![Servidor Levantado](img\CRUD_laravel_levantado.png)
+![Servidor Levantado](crud_rapido\img\CRUD_laravel_levantado.png)
 *Verificación del servidor local corriendo correctamente en el entorno de desarrollo.*
 
 ---
